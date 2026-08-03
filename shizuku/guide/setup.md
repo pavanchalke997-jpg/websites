@@ -1,4 +1,4 @@
-# User manual
+https://dontkillmyapp.com/badge/asus3.svg# User manual
 
 [[toc]]
 
